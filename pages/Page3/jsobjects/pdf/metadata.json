@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "pdf",
+    "pageId": "Page3",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page3_pdf",
+  "deleted": false,
+  "gitSyncId": "65b26ea3ddef936d21751cc0_65b2746addef936d21751d7d"
+}
